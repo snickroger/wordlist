@@ -1,0 +1,28 @@
+body {
+	background-color:#26a9df;
+	font-family: 'Roboto Slab', serif;
+}
+
+#masthead h1 {
+	color: #FFF;
+	font-weight:700;
+}
+
+#word {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	cursor: grab;
+	cursor: -webkit-grab;
+}
+
+#word:active {
+	cursor: grabbing;
+	cursor: -webkit-grabbing;
+}
+
+#word h1 {
+	font-weight:700;
+	font-size:72px;
+}
