@@ -1,0 +1,23 @@
+{
+  "name": "Nick's Untitled Word List",
+  "version": "0.0.0",
+  "authors": [
+    "nrogers <nick@nickroge.rs>"
+  ],
+  "description": "Swipe for tons of words for use in board games, like Pictionary, Concept, Charades, Guesstures, and more!",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://www.nickroge.rs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bounce.js": "~0.8.2",
+    "quojs": "~3.0.7"
+  }
+}
