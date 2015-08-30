@@ -19,3 +19,6 @@ function jiggle(){
 }
 
 $$('#word').swipe(jiggle);
+$('#word').on('animationend', function(){
+	$('style').remove(); // remove the style tag this creates
+});
