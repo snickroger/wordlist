@@ -21,6 +21,8 @@ function getWordList() {
 
 function getWordListDone(data,textStatus,jqXHR) {
   wordList = data;
+  // jQuery('#word h1').removeAttr('style');
+  jiggle();
 }
 
 function jiggle(){

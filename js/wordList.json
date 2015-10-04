@@ -1,10 +1,1 @@
-[{
-	"name":"Animals",
-	"words":["Bee","Horse","Elephant"]
-},{
-	"name":"Celebrities",
-	"words":["Tom Cruise","Matt Damon","Matthew McConaughey"]
-},{
-	"name":"Television",
-	"words":["Star Trek","Will & Grace","Monday Night Football"]
-}]
+[{"name":"Celebrities","words":["Alec Baldwin","Ben Affleck","Brad Pitt","Bruce Willis","Burt Reynolds","Charlie Chaplin","Chris Hemsworth","Chris Pratt","Denzel Washington","Donald Trump","Ellen DeGeneres","Elvis Presley","Frank Sinatra","George Clooney","Halle Berry","Harrison Ford","Hugh Jackman","Jennifer Lawrence","Jennifer Lopez","Jim Carrey","Jimmy Fallon","John Travolta","John Wayne","Johnny Depp","Jon Stewart","Julia Roberts","Justin Timberlake","Katy Perry","Lady Gaga","Leonardo DiCaprio","Matt Damon","Matthew McConaughey","Mel Gibson","Miley Cyrus","Morgan Freeman","Neil Patrick Harris","Robert Downey, Jr.","Robin Williams","Russell Crowe","Samuel L. Jackson","Scarlett Johansson","Simon Cowell","Stephen Colbert","Steve Carell","Taylor Swift","Tina Fey","Tom Cruise","Tom Hanks","Will Ferrell","Will Smith"]},{"name":"Television","words":["All in the Family","Boy Meets World","Breaking Bad","Cheers","Dallas","Doctor Who","Dragon Ball Z","Empire","Friends","Full House","Game of Thrones","How I Met Your Mother","I Love Lucy","Jeopardy!","Laugh-In","Law and Order","M*A*S*H","Mad Men","Miami Vice","Modern Family","Monday Night Football","Orange Is The New Black","Parks and Recreation","Pokemon","Roseanne","Saturday Night Live","Scrubs","South Park","Star Trek","The A-Team","The Golden Girls","The Muppets","The Office","The Price is Right","The Simpsons","The Today Show","The Tonight Show","The Wire","Two and a Half Men","Wheel of Fortune"]}]
